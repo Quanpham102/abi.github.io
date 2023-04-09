@@ -1,7 +1,19 @@
 <html>
 abi
 I Love You
-  <script>
-    window.open("https://google.com");//abiq02.github.io");
-  </script>
+    <div id="message"></div>
+    <script>
+        var message = "I love you";
+        var index = 0;
+        
+        function typeMessage() {
+          if (index < message.length) {
+            document.getElementById("message").innerHTML += message.charAt(index);
+            index++;
+            setTimeout(typeMessage, 100);
+          }
+        }
+        
+        typeMessage();
+    </script>
 </html>  
