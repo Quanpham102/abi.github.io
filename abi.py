@@ -16,7 +16,7 @@ input('...')
 
 input('...')
 bq = driver.page_source
-abi = open('a2.txt', 'w')
+abi = open('a22.txt', 'w')
 abi.write(bq)
 abi.close()
 '''

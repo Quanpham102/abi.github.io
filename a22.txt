@@ -1,0 +1,547 @@
+Серфинг сайтов click 
+//*[@id="mnu_title1"]
+usermnutitle-g'
+
+XPATH 
+/html/body/div[9]/table[2]/tbody/tr/td[1]/div/div[2]/div/center/div[1]/a[1]
+click nv
+.. xpath
+/html/body/div[9]/table[2]/tbody/tr/td[2]/div/div/div/div[1]/div[5]/table/tbody/tr/td[2]/div[1]/a
+<input name="code" type="range" value="316" max="316">
+button
+/html/body/table/tbody/tr/td[2]/table/tbody/tr/td[2]/form/button
+<html style="height: 100%;"><head>
+  <title>ProfiTCentR - Рекламное агентство. Эффективная раскрутка сайтов</title>
+  <meta charset="utf-8">
+      <noscript><meta http-equiv="refresh" content="0; URL=badbrowser"></noscript>
+   
+  <meta name="mailru-verification" content="c1b6bb2d047ac46d">
+  <meta name="yandex-verification" content="69c5f0c70ba85256">
+  <meta name="description" content="Сервис заданий. Подписчики накрутка ютюб вк. Реклама и заработок. Реклама в интернете. Раскрутка сайта, сервис раскрутки и продвижения проектов в интернет">
+  <meta name="keywords" content="задания, сервис, трафик, реклама, накрутка, заработок, покупка трафика, продажа трафика, дешевые клики, рекламный брокер, раскрутка сайта, реклама, раскрутка, бесплатная раскрутка, маркетинг, промоушн, promotion">
+  <meta name="author" content="Шитов Ю.В">
+  <meta name="referrer" content="origin-when-crossorigin">
+  <link rel="stylesheet" href="../statica/style.css?r1494">
+  <link rel="stylesheet" href="../statica/task22.css?r1494">
+  <link rel="stylesheet" href="../statica/dop_style.css?r1494">
+  <link rel="stylesheet" href="../statica/mayn_style.css?r1494"> 
+  <link rel="icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="../statica/touch-icon-iphone.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../statica/touch-icon-ipad.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../statica/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../statica/touch-icon-ipad-retina.png">
+  <script src="../statica/js/jquery-3.2.1.min.js"></script>
+  <script src="../statica/js/socket.io-2.0.1.js"></script>
+  <script src="../statica/js/tiptip.js?r1494"></script>
+  <script src="../statica/js/site_main.js?r1494"></script>
+  <script src="../statica/js/google-translate.js"></script>
+  <script src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.TpYxICw8iG4.L.F4.O/d=0/rs=AN8SPfrtPftKEg7PtUwWauRCo_c976LPSg/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.3J5GHVLMwbQ.O/d=1/exm=el_conf/ed=1/rs=AN8SPfr5F146DR3Ymd2V4UTruNU2dbUhkw/m=el_main"></script>
+  <script>
+	var YEAR = 2023, MONTH = 09, DAY = 27;
+    var HOUR = 03, MINUTE = 35, SECOND = 05;
+    
+    hrefArray100 = new Array ('https://prosmmpanel.ru/');    
+imgArray100 = new Array ('/upload_banners/3333b949d321f9ed2eae3a932fcb5da7.gif');    hrefArray = new Array ('/go/go-banners.php?id=65950','/go/go-banners.php?id=65984','/go/go-banners.php?id=65952','/go/go-banners.php?id=65964','/go/go-banners.php?id=65949','/go/go-banners.php?id=65983','/go/go-banners.php?id=65951','/go/go-banners.php?id=65977');    
+imgArray = new Array ('/upload_banners/5d7529faaa60d1de80030e6d9a1f9de8.gif','/upload_banners/7cf1f126b701ae2a7884b7cfcbc41468.gif','/upload_banners/baacf5236eef273011127bb50dd26b60.gif','/upload_banners/deefa9770c36c28baaccdae52e59c3e9.gif','/upload_banners/451f28bfae78bc650b1d914876b3c2b3.gif','/upload_banners/ea4224cc8efd01bb6534b3e29a3cab83.gif','/upload_banners/b50e9137b17e6175354b1e97616e4bac.gif','/upload_banners/e0faa107bbf0e98d0fc0e49977f97f33.jpeg');    var i_b_100 = 0;
+    var i_b_468_1 = 7;
+    
+  </script>
+</head>
+<body style="position: relative; min-height: 100%; top: 40px;"><div style="" class="skiptranslate"><iframe id=":0.container" class="VIpgJd-ZVi9od-ORHb-OEVmcd skiptranslate" src="#" style="visibility:visible" frameborder="0"></iframe></div>
+
+  <div id="text-rab-time"><span id="load-time-tex"></span></div>
+  <div id="load"></div>
+  <div id="error-footer"></div>
+  <div id="load-site-img" style="display: none;"><img src="./img/load-offers2.gif" title="Загрузка страницы" style="border:none" alt=""></div>
+<!--<div style="position: absolute; z-index: 10; width: 33px; height: 113px; right: 50px;"><img src="./images/9may.png" title="Георгиевская лента" border="0"></div>-->
+
+  <!--    
+          <div id="clouse_chat_panel">
+        <span class="chat_panel"><span style="color:#e32636; cursor: pointer; font-size: 12px" title="Скрыть" onclick="clouse_chat_panel()"><b>Х</b></span>&nbsp;&nbsp;&nbsp;
+        <a href="/ajaxchat" target="_blank"><span id="blink" style="color:#fff;">Чат</span></a></span>
+      </div>
+     -->   
+          <div id="load-new-mess"><script>clearInterval(stop_tit);var stop_tit;</script></div>
+      <script>
+          setTimeout(getNewMessages, 2000);
+      </script>
+        
+          <div id="load-new-mess-us"></div>
+      <script>
+          setTimeout(getNewMessagesUS, 3000);
+      </script>
+        
+          <script>
+        $(document).ready(function(){
+          setTimeout(getNewMessagesS, 2000);
+        
+          window.socket.on('update_moder_support', function (data) {
+            data = data.modersupport;
+            if(data){
+              getNewMessagesS();
+            }   
+          });
+        }); 
+    </script>
+      <div id="load-new-mess-s"></div>
+      <audio id="support_sound" src="../statica/support_sound.ogg" type="audio/ogg"></audio>
+        
+    <!--  
+      <div id="clouse_help_panel">
+      <span class="help_panel"><span style="color:#e32636; cursor: pointer; font-size: 12px" title="Скрыть" onclick="clouse_help_panel()"><b>Х</b></span>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a class="ajax-site" href="/faq"><span style="color:#FFE419; text-shadow: 0 1px 1px rgba(0,0,0,0.56);">Помощь</span></a></span>
+    </div>
+    
+      <div id="clouse_support_panel">
+	  <span class="support_panel"><span style="color:#e32636; cursor: pointer; font-size: 12px" title="Скрыть" onclick="clouse_support_panel()"><b>Х</b></span>&nbsp;&nbsp;&nbsp;
+	  <a class="ajax-site" href="/support?bill=open"><span style="color:#F0FFFF; text-shadow: 0 1px 1px rgba(0,0,0,0.56);">Техподдержка</span></a></span>
+    </div>
+   --> 
+  <div id="main">
+    
+    <div class="on_line" title="Сколько человек онлайн"><div class="onpovorot" id="online-site">&nbsp;972</div></div>
+    
+    <table class="header" style="padding:0px;border-spacing:0px;border:none">
+      <tbody><tr>
+        <td><a href="/" class="ajax-site logo" title="Profitcentr - Рекламное агетство №1"></a></td>
+        <td style="width:100px;"></td>
+        <td style="width:476px; padding-bottom: 1px;caption-side:bottom">
+          <!--noindex--><div id="baner-serf" style="min-height:70px"><span id="banner468x60_1" style="min-height:60px"><a href="/go/go-banners.php?id=65952" target="_blank"><img src="/upload_banners/baacf5236eef273011127bb50dd26b60.gif" style="min-width:468px;min-height:60px" alt=""></a></span></div><!--/noindex-->        </td>
+      </tr>
+      <tr>
+        <td class="top-menu" colspan="3" id="top-menu">
+                    
+    <!--<a href="/" class="ajax-site ">Главная</a>-->
+<!--
+  <a href="advertise?adv=serf" class="ajax-site ">Продвижение</a>
+-->
+
+    <a href="advertise" class="ajax-site ">Рекламодателю</a>
+  
+
+    <a href="work-serf?ctrll=9aa618f91a4eb4ff143e9c7037fe63419aa618f91a4eb4ff143e9c7037fe6341" class="ajax-site ">Заработок</a>
+  
+   <a href="/subscribe" class="ajax-site ">PRO Edition</a>
+
+    <a style="background: #FC8000; padding: 5px 16px 8px 16px;" href="news" class="ajax-site ">Новости</a>
+
+        
+      <a href="goodref" class="ajax-site ">Реф-cтена</a>
+    <a href="top100" class="ajax-site ">Топ 100</a>
+    <a href="refbirj" class="ajax-site ">Биржа</a>
+  	
+      
+  <!--<a href="tos" class="ajax-site ">Правила</a>
+  <a href="support" class="ajax-site ">Техподдержка</a>-->
+      <a href="faq" class="ajax-site ">Помощь</a>
+    <a href="https://t.me/profitcentr_official" target="_blank" class="">Чат</a>
+    <a href="logout?exit_account=9aa618f91a4eb4ff143e9c7037fe6341">Выход</a>
+    <script>banners();</script>
+  
+  <img src="/images/lang.png" class="lang_g" onclick="show_window('.lang_menu');return false;">
+  <div class="lang_menu" style="display: none;">
+      <span class="lang-select lang-ru" data-lang="ru" onclick="changeLang('ru');"></span>
+      <span class="lang-select lang-en" data-lang="en" onclick="changeLang('en');"></span>
+      <span class="lang-select lang-pt" data-lang="pt" onclick="changeLang('pt');"></span>
+      <span class="lang-select lang-fr" data-lang="fr" onclick="changeLang('fr');"></span>
+      <span class="lang-select lang-hi" data-lang="hi" onclick="changeLang('hi');"></span>
+      <span class="lang-select lang-it" data-lang="it" onclick="changeLang('it');"></span>
+      <span class="lang-select lang-ko" data-lang="ko" onclick="changeLang('ko');"></span>
+      <span class="lang-select lang-th" data-lang="th" onclick="changeLang('th');"></span>
+      <span class="lang-select lang-tr" data-lang="tr" onclick="changeLang('tr');"></span>
+      <span class="lang-select lang-zh" data-lang="zh-TW" onclick="changeLang('zh-TW');"></span>    
+  </div> 
+        </td>  
+      </tr>
+    </tbody></table>
+    
+    <table style="width:1011px; margin: auto;">
+      <tbody><tr>
+        <td style="width:200px; vertical-align:top;"><div id="leftcolumn">
+  
+  
+  
+          <div class="blok">
+        <h1>quanabi2002 <font size="2">(ID:4007841)</font></h1>
+        
+                  
+          <center><a class="s_staj"></a></center>
+          <table width="198px" border="0" align="center">
+		    <tbody><tr>
+			  <td align="center">
+			    <a class="ajax-site" href="/wall?uid=4007841">
+				  <img class="avatar-akk tipi" src="https://profitcentr.me/ava/no_avatar.png" alt="" width="60" height="60" border="0">
+			    </a>
+			  </td>
+			  <td valign="top" align="center">
+			    <center><a id="reyt-user-block" href="/rating" class="ajax-site rating tipi">0</a></center>
+				<center><span class="status"><a href="/rating" class="ajax-site tipi">Стажер</a></span></center>
+			  </td>
+			</tr>
+		  </tbody></table>
+		  
+		  <center>
+		    		      <div id="DivImg"><a onclick="SetQuery();" style="cursor: pointer;" class="e_bonus" title="Забрать ежедневный бонус к рейтингу"></a></div>
+		    		    <a class="ajax-site r-schet2" href="money_add" title="">
+		      <font color="green">
+		        Рекламный счет: <span id="new-money-rekl">0.00<span style="font-size:10px;color:#b2b2b2;">00</span></span> ₽
+		      </font>
+		    </a>
+			<a class="ajax-site osn-schet2" href="payment?hash=cda60200a34bd69064a9ea051194a013" title="">
+			  <font color="green">
+			    Основной счет: <span id="new-money-ballans">0.02<span style="font-size:10px;color:#b2b2b2;">50</span></span> ₽
+			  </font>
+			</a>
+            		  </center>
+
+                
+      </div>
+ <!--     
+       -->     
+      <br>
+      
+            
+      	  
+	  <div class="blok">
+		<h1>Меню</h1>
+		<div class="usermenu">
+		  <center>
+		    
+		    <span id="mnu_title1" class="usermnutitle-g">Заработать</span>
+		    <div id="mnu_tblock1" class="usermnublock" style="">
+		      <a class="ajax-site user_menuline" href="./work-serf?ctrll=9aa618f91a4eb4ff143e9c7037fe63419aa618f91a4eb4ff143e9c7037fe6341">Серфинг сайтов</a>
+		      
+                  <a class="ajax-site user_menuline" href="./work-jump?hash=29d24f13e8c02e64e6871f4064c3e17c">Переходы</a>
+              
+              <a class="ajax-site user_menuline" href="./mails_new?hash=2485e4b1c9ace4d57511be7cf8fea057">Чтение писем</a>
+              <a class="ajax-site user_menuline" href="./work-task">Выполнение заданий</a>
+              <a class="ajax-site user_menuline" href="./work-test?hash=97969df4491fbbd8dbb8fb32bdc18e39">Прохождение тестов</a>
+		      <a class="ajax-site usermnuline-act" href="./work-youtube?hash=70dfe3168162eff9989d3f32946d7048">YouTube</a>
+		      <a class="ajax-site user_menuline" href="./work-rutube?hash=14256751a16fc998c517cd283a5739b2">Rutube</a>
+		      <a class="ajax-site user_menuline" href="./work-vk?hash=fb22e7bf06bf634f6eae7b933a127b4e">ВКонтакте</a>
+<a class="ajax-site user_menuline" href="./work-offers?hash=358333e72594a8099060f6cd23fca9da">Offers</a>
+
+		      <!--<a class="ajax-site user_menuline" href="./work-instagram?hash=cc79ac27ea9a82337f1e18dd915bf88f">Instagram</a>-->
+			  <a class="user_menuline" href="https://chrome.google.com/webstore/detail/profitcentrcom/pibmcnpamlghbbmconmceknbiojmbddl?hl=ru&amp;authuser=0" target="_blank">Работа в расширении</a>
+		      <a class="ajax-site user_menuline" href="./refkonkurs?s=view">Конкурсы от реферера&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+			  <a class="ajax-site user_menuline" href="./refbonus?s=bonus_view">Бонусы от реферера&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="/blacklist-advertisers">Черный список</a>
+            </div>
+            
+            <span id="mnu_title2" class="usermnutitle-g">Рекламодателю</span>
+            <div id="mnu_tblock2" class="usermnublock" style="display: none;">
+              <a class="ajax-site user_menuline" href="./advertise?adv=serf">Разместить рекламу</a>
+              <a class="ajax-site user_menuline" href="./advm-serf">Управ-ние рекламой</a>
+              <a class="ajax-site user_menuline" href="./advm-jump">Управ-ние переходами</a>
+              <a class="ajax-site user_menuline" href="./advm-task">Управ-ние заданиями </a>
+              <a class="ajax-site user_menuline" href="./advm-test">Управ-ние тестами</a>
+		      <a class="ajax-site user_menuline" href="./advm-youtube">Управ-ние YouTube</a>
+		      <a class="ajax-site user_menuline" href="./advm-rutube">Управ-ние Rutube</a>
+		      <a class="ajax-site user_menuline" href="./advm-vk">Управ-ние VK</a>
+		      <!--<a class="ajax-site user_menuline" href="./advm-instagram">Управ-ние Instagram</a>-->
+			  <a class="ajax-site user_menuline" href="./advm-expansion">ЯДзен, ЯМузыка, TikTok</a>
+              <a class="ajax-site user_menuline" href="/blacklist-freelancers">Черный список</a>
+              <a class="ajax-site user_menuline" href="/whitelist-freelancers">Белый список</a>
+			  <a class="ajax-site user_menuline" href="/api-interface">API заданий</a>
+			  <a class="ajax-site user_menuline" href="/api-youtube">API YouTube</a>			  
+            </div>
+            
+            <span id="mnu_title3" class="usermnutitle-g">Реф-система</span>
+            <div id="mnu_tblock3" class="usermnublock" style="display: none;">
+              <a class="ajax-site user_menuline" href="./goodref">Реф-стена (GoodRef)</a>
+              <a class="ajax-site user_menuline" href="./reflinks">Пригласить рефералов</a>
+              <a class="ajax-site user_menuline" href="./referals">Мои рефералы&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="./referals_2">Рефералы 2 уровня</a>
+              <a class="ajax-site user_menuline" href="./refbirj">Биржа рефералов</a>
+              <a class="ajax-site user_menuline" href="./refkonkurs?s=myview">Конкурсы для рефералов</a>
+			  <a class="ajax-site user_menuline" href="./refbonus?s=bonus_myview">Бонусы для рефералов</a>
+              <a class="ajax-site user_menuline" href="./mess_new_ref">Приветствие рефералам</a>
+              <a class="ajax-site user_menuline" href="./new_mail?s=rass">Массовая рассылка</a>
+            </div>
+            
+            <span id="mnu_title4" class="usermnutitle-g">Личный кабинет</span>
+            <div id="mnu_tblock4" class="usermnublock" style="display: none;">
+              <a class="ajax-site user_menuline" href="./rating">Карьера</a>
+              <a class="ajax-site user_menuline" href="./members">Мой аккаунт</a>
+              <a class="ajax-site user_menuline" href="./wall?uid=4007841">Моя стена</a>
+              <a class="ajax-site user_menuline" href="./new_mail">Моя почта&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="./sys_mail">Систем. сообщения&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="./friends">Мои друзья</a>
+              <a class="ajax-site user_menuline" href="./profile">Мои личные данные</a>
+              <a class="ajax-site user_menuline" href="./history">История операций</a>
+              <a class="ajax-site user_menuline" href="./note">Блокнот</a>
+              <a class="ajax-site user_menuline" href="./offers">Предложения для сайта</a>
+            </div>
+            
+                        
+          </center>
+        </div>
+      </div>
+<!--
+      <div style="text-align:center">		
+	<br>
+        <div class="blok">
+          <h1>Реклама (Баннер 100х100)</h1><br>
+         <div id="baner100" style="height:115px"></div>
+          <script>banners_100();</script>
+          <br>
+          <div style="text-align:center;">
+            <span class="desctext"><a class="ajax-site" href="advertise?adv=banners">Разместить баннер</a></span>
+          </div>
+        </div>
+ </div>
+-->
+<!--
+<div class="blok">
+<h1>Тут лампово</h1>
+<a href="https://t.me/profitcentr_official" target="_blank" style="border:0;"><img src="images/telegram.jpg" alt="" style="margin-top:4px;"></a><br>
+</div>
+-->
+    <div style="color: #f0f0f0;text-align:center; text-shadow: 1px 1px 0px #444444; font-size: 15px;margin-top:5px">
+      <span id="day" translate="no">27</span>.<span id="month" translate="no">09</span>.<span id="year" translate="no">2023</span> <span id="hours" translate="no">03</span>.<span id="min" translate="no">41</span>.<span id="sec" translate="no">44</span>
+    </div>
+
+		  
+    
+
+  
+  
+</div></td>
+        <td style="width:600px; vertical-align:top;">
+          <div id="contentwrapper">
+            <div id="maincolumn">
+              <div class="text">
+                
+      
+          <span class="msg-warning">
+        Пожалуйста перейдите на страницу "<a href="profile" class="ajax-site" style="color: #fff; border-bottom: 1px dotted;">Мои личные данные</a>"<br>
+        и укажите Имя, пол и дату рождения.
+      </span>
+        
+  
+                <style>
+.block-inform-info {
+    background-color: #ecf0f1;
+    background-image: url(/img/inform-info.png);
+    color: #34495e;
+    text-shadow: 1px 1px 1px #fff;
+}
+.block-inform-warning {
+    background-color: #ecf0f1;
+    background-image: url(/img/inform-info.png);
+    color: #C65D00;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+.block-inform-warning, .block-inform-info {
+    background-position: 16px 16px;
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    border-radius: 6px;
+    display: block;
+    margin: 15px 10px;
+    padding: 15px 15px 15px 53px;
+    text-align: left;
+    line-height: 1.4;
+    font-size: 13px;
+}
+</style>
+
+<div class="blok">
+
+    <h1>
+  <b class="menu-earnings">
+    <a class="ajax-site " href="work-serf?ctrll=9aa618f91a4eb4ff143e9c7037fe63419aa618f91a4eb4ff143e9c7037fe6341">Серфинг</a>&nbsp;:
+
+
+<a class="ajax-site " href="work-jump?hash=29d24f13e8c02e64e6871f4064c3e17c">Переходы</a>&nbsp;:
+
+    <a class="ajax-site " href="mails_new?hash=2485e4b1c9ace4d57511be7cf8fea057">Письма</a>&nbsp;:
+	<a class="ajax-site " href="work-task">Задания</a>&nbsp;:&nbsp;
+    <a class="ajax-site " href="work-test?hash=97969df4491fbbd8dbb8fb32bdc18e39">Тесты</a>&nbsp;:
+    <a class="ajax-site active" href="work-youtube?hash=70dfe3168162eff9989d3f32946d7048">Youtube</a>&nbsp;:
+    <a class="ajax-site " href="work-vk?hash=fb22e7bf06bf634f6eae7b933a127b4e">VK</a>&nbsp;:
+<a class="ajax-site " href="work-offers?hash=794dd4e078e94d2d57b292cbac4f052a">Offers</a>
+<!--<a class="ajax-site " href="work-instagram?hash=cc79ac27ea9a82337f1e18dd915bf88f">Inst</a>-->
+  </b>
+</h1>
+<div class="block-inform-warning">
+Cистема периодически проверяет Ваши работы (подписки, лайки и репосты) за которые Вы получили деньги. В случае обнаружения отписки, удаления репоста или лайка - ваш аккаунт будет заблокирован.
+</div>
+
+<script>url_video_work = 'https://strawberry-drum-xdhc.squarespace.com';</script>
+
+    <div style="text-align: center;">
+        <form style="display: inline-block;" method="post">
+            <div class="out-capcha">
+      <div class="out-capcha-title">
+        Отметьте изображения с бананами
+        <span class="out-reload" style="background-image:url(data:image/gif;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QF2RXhpZgAATU0AKgAAAAgACgEaAAUAAAABAAAAhgEbAAUAAAABAAAAjgEoAAMAAAABAAIAAAExAAIAAAAQAAAAllEAAAQAAAAGAAAAplEBAAMAAAABAAAAAFECAAEAAABgAAAAvlEDAAEAAAABAAAAAFEEAAEAAAABAAAAAIdpAAQAAAABAAABHgAAAAAAAABgAAAAAQAAAGAAAAABcGFpbnQubmV0IDQuMC40AAAAAAoAAAAKAAAACgAAAAoAAAAKAAAACv///yp9tfj6/FiZxZjA2i+AtkmQv9zp8rbS5TyIu4y41n+w0ujw9qjK4M/h7WahyXGozQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkoYABwAAADwAAAEwAAAAAFVOSUNPREUAAEMAcgBlAGEAdABlAGQAIAB3AGkAdABoACAAYQBqAGEAeABsAG8AYQBkAC4AaQBuAGYAbwAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/pu+NHxp/bD1b/goBpfww/Zv8V+KdZ+CXws8R/s2f8NPeFz4P+FOp2XhfTPip4u05NQtdD1K68HS+Pm0q/8AAEh8Ra3dx65d6noUR8RazaXelaLpMb2X0h4b+Onxv+HP7Y6/s6fHNPCXiDwH8dLT4g+Nf2ZvHfhbT7nSNTsbbwWzaxrnwr8aWU8n2XUNV8OeE3g1FdesFL3Cm1muZbttZe18OHiT4F/G/wCHX7Y7ftF/Ax/CXiDwH8dLT4feCv2mfAfinULnSNTsbbwWy6PofxU8F3sEf2XUNV8OeE3n05tBv2L3Cm6htorttZS68OfO3we+Dn7Yeu/8FAL74o/tIeDfEOqfBX4T63+0fb/sx+KrfxX8KL6z8PaX8TvF+qPpd/4i0uy8Yy+OpLG++Hky+GNGg/sGfVNIiTw5pupWenWGm3ksH61/wgY/LNuFKGCy/gd/9AuB4ixmfRwC/wCvNTE5jh+IqT6yeM4er/8AMRXWv45/xkeXZr/zWGIx2Y8faaYvH8NYLh6WYpf9P6WGyzEcM1uqisDxJh3rhqLsv//Z" ;"="" title="Обновить изображения" onclick="re_load_capcha();return false;"></span>
+      </div>
+    
+		    <label class="out-capcha-lab" style="background-image:url(data:image/jpg;base64,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);">
+	        <input type="checkbox" value="e80fe12b4295f5c91b47198fc482ab5f" class="out-capcha-inp" name="capcha[]">
+	        <div class="label-pel"></div>
+	      </label>
+		  
+		    <label class="out-capcha-lab" style="background-image:url(data:image/jpg;base64,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);">
+	        <input type="checkbox" value="b17ca7c7f2505940f241be89598c276b" class="out-capcha-inp" name="capcha[]">
+	        <div class="label-pel"></div>
+	      </label>
+		  
+		    <label class="out-capcha-lab" style="background-image:url(data:image/jpg;base64,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);">
+	        <input type="checkbox" value="018dd416b4bcd019ecb36adb181abd52" class="out-capcha-inp" name="capcha[]">
+	        <div class="label-pel"></div>
+	      </label>
+		  
+		    <label class="out-capcha-lab" style="background-image:url(data:image/jpg;base64,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);">
+	        <input type="checkbox" value="f176e779d7be40f155262fd5359194f0" class="out-capcha-inp" name="capcha[]">
+	        <div class="label-pel"></div>
+	      </label>
+		  
+		    <label class="out-capcha-lab" style="background-image:url(data:image/jpg;base64,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);">
+	        <input type="checkbox" value="cc552cf47dd4070a8aff44ff95ea2240" class="out-capcha-inp" name="capcha[]">
+	        <div class="label-pel"></div>
+	      </label>
+		  
+		    <label class="out-capcha-lab" style="background-image:url(data:image/jpg;base64,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);">
+	        <input type="checkbox" value="0603165789e4baad09a67e806232a243" class="out-capcha-inp" name="capcha[]">
+	        <div class="label-pel"></div>
+	      </label>
+		  </div>
+            <div class="login-error"></div>
+            <button style="border:0;padding:0;margin:0;background-color:transparent;">
+    		    <span class="btn green" style="width: 150px;">Пройти проверку</span>
+    		</button>
+        </form>
+    </div>
+  
+
+<br>
+<!--noindex--><div id="baner" style="min-height:75px"><span id="banner468x60_2"><a href="/go/go-banners.php?id=65977" target="_blank"><img src="/upload_banners/e0faa107bbf0e98d0fc0e49977f97f33.jpeg" style="min-width:468px;min-height:60px" alt=""></a></span></div><!--/noindex-->
+<div style="text-align:center;" class="desctext"><a href="advertise?adv=banners" class="ajax-site">Разместить баннер</a> | <a href="banners-all" class="ajax-site">Смотреть все</a></div>
+<script>
+  hrefArray2 = new Array ('/go/go-banners.php?id=65951','/go/go-banners.php?id=65949','/go/go-banners.php?id=65950','/go/go-banners.php?id=65984','/go/go-banners.php?id=65983','/go/go-banners.php?id=65952','/go/go-banners.php?id=65977','/go/go-banners.php?id=65964');  
+imgArray2 = new Array ('/upload_banners/b50e9137b17e6175354b1e97616e4bac.gif','/upload_banners/451f28bfae78bc650b1d914876b3c2b3.gif','/upload_banners/5d7529faaa60d1de80030e6d9a1f9de8.gif','/upload_banners/7cf1f126b701ae2a7884b7cfcbc41468.gif','/upload_banners/ea4224cc8efd01bb6534b3e29a3cab83.gif','/upload_banners/baacf5236eef273011127bb50dd26b60.gif','/upload_banners/e0faa107bbf0e98d0fc0e49977f97f33.jpeg','/upload_banners/deefa9770c36c28baaccdae52e59c3e9.gif');  var i_b_468_2 = 7;
+  banners_bottom();
+</script>              </div>
+            </div>
+          </div>
+        </div>
+        </td>
+        <td style="width:200px; vertical-align:top;"><div id="rightcolumn">
+  <div id="menu-control">1</div>
+  
+    
+    
+    <div class="blok">
+	  <h1>Доска почета</h1>
+	  <center>
+        <span style="font-size: 11px;" class="status">Всем привет!</span><br>
+        <div id="chec-doska">
+          <span style="font-size: 13px; color: #F80000;" class="status" id="board-css-sex">Я <span id="id_board-user" style="color:#E25656;">tatyanastar</span></span><br>
+          <span style="font-size: 11px;" class="status">
+            <span id="id_board-rating-text">Рабочий</span>
+            (<span id="id_board-refbek">0</span> %)
+          </span><br>
+          <a href="/wall?uid=3977309" class="ajax-site" id="id_board-link">
+            <div id="ava" style="padding-top:9px;">
+              <img style="width: 135px; height: 135px; border: 1px solid #cccccc; padding: 2px; border-radius: 7px; box-shadow: 0 0 2px rgba(0,0,0,0.5); margin-bottom:5px;" src="https://profitcentr.me/ava/no_avatar.png" alt="avatar" title="Перейти на стену tatyanastar" id="id_board-avatar">
+            </div>
+          </a>
+          <div style="display: none" id="id_board-comment-block">
+            <br>
+            <span style="font-size: 11px;" class="status">
+              <font id="id_board-comment" color="#F80000"></font>
+            </span>
+            <br>
+          </div>
+        </div>
+        <a class="btn orange ajax-site" style="color:#fff; margin:8px 0 5px 5px;" href="./add_to_desck">Хочу сюда</a> <br><a style="color:green;" class="ajax-site" href="./add_to_desck">Ежедневный конкурс</a>
+	  </center>
+    </div>
+
+	<br>
+	
+		
+		  <!--noindex-->
+	  <div class="blok">
+        <h1>Контекстная реклама</h1>
+        <div class="contextlink">
+          <a href="/go/go.php?id=376622" target="_blank" style="color:#FF8000;">Серфинг за биткойны<br><span>Серфинг и автосерфинг за Bitcoin</span></a><hr><a href="/go/go.php?id=377549" target="_blank" style="color:#006699;">Как заработать в интернете2023<br><span>Все просто я протестировал проект который действительно платит за просмотры видео а если хочешь смотреть видео автоматитечесеки через мокрос на анроид</span></a><br><a href="/go/go.php?id=376210" target="_blank" style="color:#FC8000;">Wmrfast<br><span>Букс проверенный временем</span></a><br><a href="/go/go.php?id=376620" target="_blank" style="color:#FC8000;">Смотри сайты за btc<br><span>Серфинг и автосерфинг за Bitcoin</span></a><br><a href="/go/go.php?id=376014" target="_blank" style="color:#FC8000;">Заработок<br><span>Заработок на написании статей</span></a><br><a href="/go/go.php?id=377563" target="_blank" style="color:#006699;">Сайт для привлечения рефералов<br><span>Готовый сайт для привлечения рефералов на буксы.</span></a><br><a href="/go/go.php?id=376570" target="_blank" style="color:#FC8000;">Заработок без вложений!!!<br><span>Самое классное расширение! Каждую неделю вы можете получать до 10 000 ₽</span></a><br><a href="/go/go.php?id=377585" target="_blank" style="color:#006699;">Накрутка rutube<br><span>Подписчики, В топ, Эмоции Rutube за 0.19 р. Быстро, много!</span></a><br>          <a href="advertise?adv=kontext" class="ajax-site" style="font-size:90%;">Разместить ссылку</a><br>
+        </div>
+      </div>
+
+<br><div class="blok">
+<h1>Заходи, не стесняйся</h1>
+<a href="https://t.me/profitcentr_official" target="_blank" style="border:0;"><img src="images/telegram.jpg" alt="" style="margin-top:4px;"></a><br>
+</div>
+
+      
+      <!--      
+          <br><a href="https://goo.gl/Z1mXhP" target="_blank" style="border:0;"><img src="./images/lety.gif" alt="" style="width:200px; heigth:120px;"></a>      
+      -->
+      
+      <!--/noindex-->
+      
+	    
+    
+</div></td>      </tr>
+    </tbody></table>
+    
+    <div class="empty"></div>
+    
+  </div>
+  
+  <div id="footer">
+    
+    <div id="wrap">
+    
+        <div class="footer-flex">
+            
+            <div class="footer-row" style="margin-left: 0;">
+                <span class="footer-title">Обучение и помощь</span>
+                <a class="ajax-site" href="/faq">Помощь</a>
+                <a href="https://t.me/profitcentr_official" target="_blank">Телеграм чат</a>				
+                <a class="ajax-site" href="/support?bill=open">Техподдержка</a>
+            </div>
+             
+            <div class="footer-row">
+                <span class="footer-title">Юридические соглашения</span>
+				<a class="ajax-site" href="/services">Услуги и цены</a>				
+                <a class="ajax-site" href="/tos">Публичная оферта</a>
+                <a class="ajax-site" href="privacy_policy">Политика конфиденциальности</a>
+            </div>
+			
+            <div class="footer-row">
+                <span class="footer-title">Информация</span>
+			
+                <a class="ajax-site" href="/pay_today">Выплаты</a>
+                <a class="ajax-site" href="api">Разработчикам</a>
+<a class="ajax-site" href="/black-list">Черный список сайтов</a>            </div>
+            
+                            <div class="footer-row">
+                    <span class="footer-title">Статистика</span>
+                    <span class="footer-line">Исполнителей: <font color="#F5DEB3">296 826</font> чел.</span>
+                    <span class="footer-line">Новых за 24 часа: <font color="#F5DEB3">1304</font>  чел.</span>
+                    <span class="footer-line">Выплачено: <font color="#F5DEB3">153 464 864.00</font> руб.</span>
+                </div>
+                        
+            <div class="footer-row" style="margin-right: 0;">
+                <span class="footer-title">О нас</span>
+                <a class="ajax-site" href="kontakt">Контакты</a>
+				<a class="ajax-site" href="/admincommand">Админкоманда</a>
+                <a class="ajax-site" href="/">© PROFITCENTR 2009-2023</a>
+            </div>
+            
+        </div>
+
+    </div>
+  </div>
+  
+  <a style="position: fixed; bottom: 60px; right: 1px; cursor: pointer; display: none;" id="Go_Top"><img src="img/topp.png" alt="Наверх" title="Наверх"></a>
+  <a style="position: fixed; bottom: 20px; right: 1px; cursor: pointer;" id="Go_Bottom"><img src="img/down.png" alt="Вниз" title="Вниз"></a>
+
+  
+
+<div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" alt="" width="24" height="24"></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div><div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 0px; height: 0px; display: none;" frameborder="0"></iframe><iframe class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 0px; height: 0px; display: none;" frameborder="0"></iframe><div id="tiptip_holder" style="max-width:auto;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>

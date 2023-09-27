@@ -1,0 +1,1192 @@
+<html style="height: 100%;"><head>
+  <title>ProfiTCentR - Просмотр рекламных сайтов</title>
+  <meta charset="utf-8">
+      <noscript><meta http-equiv="refresh" content="0; URL=badbrowser"></noscript>
+   
+  <meta name="mailru-verification" content="c1b6bb2d047ac46d">
+  <meta name="yandex-verification" content="69c5f0c70ba85256">
+  <meta name="description" content="Сервис заданий. Подписчики накрутка ютюб вк. Реклама и заработок. Реклама в интернете. Раскрутка сайта, сервис раскрутки и продвижения проектов в интернет">
+  <meta name="keywords" content="задания, сервис, трафик, реклама, накрутка, заработок, покупка трафика, продажа трафика, дешевые клики, рекламный брокер, раскрутка сайта, реклама, раскрутка, бесплатная раскрутка, маркетинг, промоушн, promotion">
+  <meta name="author" content="Шитов Ю.В">
+  <meta name="referrer" content="origin-when-crossorigin">
+  <link rel="stylesheet" href="../statica/style.css?r1494">
+  <link rel="stylesheet" href="../statica/task22.css?r1494">
+  <link rel="stylesheet" href="../statica/dop_style.css?r1494">
+  <link rel="stylesheet" href="../statica/mayn_style.css?r1494"> 
+  <link rel="icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="../statica/touch-icon-iphone.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../statica/touch-icon-ipad.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../statica/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../statica/touch-icon-ipad-retina.png">
+  <script src="../statica/js/jquery-3.2.1.min.js"></script>
+  <script src="../statica/js/socket.io-2.0.1.js"></script>
+  <script src="../statica/js/tiptip.js?r1494"></script>
+  <script src="../statica/js/site_main.js?r1494"></script>
+  <script src="../statica/js/google-translate.js"></script>
+  <script src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.TpYxICw8iG4.L.F4.O/d=0/rs=AN8SPfrtPftKEg7PtUwWauRCo_c976LPSg/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.3J5GHVLMwbQ.O/d=1/exm=el_conf/ed=1/rs=AN8SPfr5F146DR3Ymd2V4UTruNU2dbUhkw/m=el_main"></script>
+  <script>
+	var YEAR = 2023, MONTH = 09, DAY = 27;
+    var HOUR = 03, MINUTE = 35, SECOND = 05;
+    
+    hrefArray100 = new Array ('https://prosmmpanel.ru/');    
+imgArray100 = new Array ('/upload_banners/3333b949d321f9ed2eae3a932fcb5da7.gif');    hrefArray = new Array ('/go/go-banners.php?id=65950','/go/go-banners.php?id=65984','/go/go-banners.php?id=65952','/go/go-banners.php?id=65964','/go/go-banners.php?id=65949','/go/go-banners.php?id=65983','/go/go-banners.php?id=65951','/go/go-banners.php?id=65977');    
+imgArray = new Array ('/upload_banners/5d7529faaa60d1de80030e6d9a1f9de8.gif','/upload_banners/7cf1f126b701ae2a7884b7cfcbc41468.gif','/upload_banners/baacf5236eef273011127bb50dd26b60.gif','/upload_banners/deefa9770c36c28baaccdae52e59c3e9.gif','/upload_banners/451f28bfae78bc650b1d914876b3c2b3.gif','/upload_banners/ea4224cc8efd01bb6534b3e29a3cab83.gif','/upload_banners/b50e9137b17e6175354b1e97616e4bac.gif','/upload_banners/e0faa107bbf0e98d0fc0e49977f97f33.jpeg');    var i_b_100 = 0;
+    var i_b_468_1 = 7;
+    
+  </script>
+</head>
+<body style="position: relative; min-height: 100%; top: 40px;"><div style="" class="skiptranslate"><iframe id=":0.container" class="VIpgJd-ZVi9od-ORHb-OEVmcd skiptranslate" src="#" style="visibility:visible" frameborder="0"></iframe></div>
+
+  <div id="text-rab-time"><span id="load-time-tex"></span></div>
+  <div id="load"></div>
+  <div id="error-footer"></div>
+  <div id="load-site-img" style="display: none;"><img src="./img/load-offers2.gif" title="Загрузка страницы" style="border:none" alt=""></div>
+<!--<div style="position: absolute; z-index: 10; width: 33px; height: 113px; right: 50px;"><img src="./images/9may.png" title="Георгиевская лента" border="0"></div>-->
+
+  <!--    
+          <div id="clouse_chat_panel">
+        <span class="chat_panel"><span style="color:#e32636; cursor: pointer; font-size: 12px" title="Скрыть" onclick="clouse_chat_panel()"><b>Х</b></span>&nbsp;&nbsp;&nbsp;
+        <a href="/ajaxchat" target="_blank"><span id="blink" style="color:#fff;">Чат</span></a></span>
+      </div>
+     -->   
+          <div id="load-new-mess"><script>clearInterval(stop_tit);var stop_tit;</script></div>
+      <script>
+          setTimeout(getNewMessages, 2000);
+      </script>
+        
+          <div id="load-new-mess-us"></div>
+      <script>
+          setTimeout(getNewMessagesUS, 3000);
+      </script>
+        
+          <script>
+        $(document).ready(function(){
+          setTimeout(getNewMessagesS, 2000);
+        
+          window.socket.on('update_moder_support', function (data) {
+            data = data.modersupport;
+            if(data){
+              getNewMessagesS();
+            }   
+          });
+        }); 
+    </script>
+      <div id="load-new-mess-s"></div>
+      <audio id="support_sound" src="../statica/support_sound.ogg" type="audio/ogg"></audio>
+        
+    <!--  
+      <div id="clouse_help_panel">
+      <span class="help_panel"><span style="color:#e32636; cursor: pointer; font-size: 12px" title="Скрыть" onclick="clouse_help_panel()"><b>Х</b></span>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a class="ajax-site" href="/faq"><span style="color:#FFE419; text-shadow: 0 1px 1px rgba(0,0,0,0.56);">Помощь</span></a></span>
+    </div>
+    
+      <div id="clouse_support_panel">
+	  <span class="support_panel"><span style="color:#e32636; cursor: pointer; font-size: 12px" title="Скрыть" onclick="clouse_support_panel()"><b>Х</b></span>&nbsp;&nbsp;&nbsp;
+	  <a class="ajax-site" href="/support?bill=open"><span style="color:#F0FFFF; text-shadow: 0 1px 1px rgba(0,0,0,0.56);">Техподдержка</span></a></span>
+    </div>
+   --> 
+  <div id="main">
+    
+    <div class="on_line" title="Сколько человек онлайн"><div class="onpovorot" id="online-site">&nbsp;866</div></div>
+    
+    <table class="header" style="padding:0px;border-spacing:0px;border:none">
+      <tbody><tr>
+        <td><a href="/" class="ajax-site logo" title="Profitcentr - Рекламное агетство №1"></a></td>
+        <td style="width:100px;"></td>
+        <td style="width:476px; padding-bottom: 1px;caption-side:bottom">
+          <!--noindex--><div id="baner-serf" style="min-height:70px"><span id="banner468x60_1" style="min-height:60px"><a href="/go/go-banners.php?id=65983" target="_blank"><img src="/upload_banners/ea4224cc8efd01bb6534b3e29a3cab83.gif" style="min-width:468px;min-height:60px" alt=""></a></span></div><!--/noindex-->        </td>
+      </tr>
+      <tr>
+        <td class="top-menu" colspan="3" id="top-menu">
+                    
+    <!--<a href="/" class="ajax-site ">Главная</a>-->
+<!--
+  <a href="advertise?adv=serf" class="ajax-site ">Продвижение</a>
+-->
+
+    <a href="advertise" class="ajax-site ">Рекламодателю</a>
+  
+
+    <a href="work-serf?ctrll=9aa618f91a4eb4ff143e9c7037fe63419aa618f91a4eb4ff143e9c7037fe6341" class="ajax-site active">Заработок</a>
+  
+   <a href="/subscribe" class="ajax-site ">PRO Edition</a>
+
+    <a style="background: #FC8000; padding: 5px 16px 8px 16px;" href="news" class="ajax-site ">Новости</a>
+
+        
+      <a href="goodref" class="ajax-site ">Реф-cтена</a>
+    <a href="top100" class="ajax-site ">Топ 100</a>
+    <a href="refbirj" class="ajax-site ">Биржа</a>
+  	
+      
+  <!--<a href="tos" class="ajax-site ">Правила</a>
+  <a href="support" class="ajax-site ">Техподдержка</a>-->
+      <a href="faq" class="ajax-site ">Помощь</a>
+    <a href="https://t.me/profitcentr_official" target="_blank" class="">Чат</a>
+    <a href="logout?exit_account=9aa618f91a4eb4ff143e9c7037fe6341">Выход</a>
+    <script>banners();</script>
+  
+  <img src="/images/lang.png" class="lang_g" onclick="show_window('.lang_menu');return false;">
+  <div class="lang_menu" style="display: none;">
+      <span class="lang-select lang-ru" data-lang="ru" onclick="changeLang('ru');"></span>
+      <span class="lang-select lang-en" data-lang="en" onclick="changeLang('en');"></span>
+      <span class="lang-select lang-pt" data-lang="pt" onclick="changeLang('pt');"></span>
+      <span class="lang-select lang-fr" data-lang="fr" onclick="changeLang('fr');"></span>
+      <span class="lang-select lang-hi" data-lang="hi" onclick="changeLang('hi');"></span>
+      <span class="lang-select lang-it" data-lang="it" onclick="changeLang('it');"></span>
+      <span class="lang-select lang-ko" data-lang="ko" onclick="changeLang('ko');"></span>
+      <span class="lang-select lang-th" data-lang="th" onclick="changeLang('th');"></span>
+      <span class="lang-select lang-tr" data-lang="tr" onclick="changeLang('tr');"></span>
+      <span class="lang-select lang-zh" data-lang="zh-TW" onclick="changeLang('zh-TW');"></span>    
+  </div> 
+        </td>  
+      </tr>
+    </tbody></table>
+    
+    <table style="width:1011px; margin: auto;">
+      <tbody><tr>
+        <td style="width:200px; vertical-align:top;"><div id="leftcolumn">
+  
+  
+  
+          <div class="blok">
+        <h1>quanabi2002 <font size="2">(ID:4007841)</font></h1>
+        
+                  
+          <center><a class="s_staj"></a></center>
+          <table width="198px" border="0" align="center">
+		    <tbody><tr>
+			  <td align="center">
+			    <a class="ajax-site" href="/wall?uid=4007841">
+				  <img class="avatar-akk tipi" src="https://profitcentr.me/ava/no_avatar.png" alt="" width="60" height="60" border="0">
+			    </a>
+			  </td>
+			  <td valign="top" align="center">
+			    <center><a id="reyt-user-block" href="/rating" class="ajax-site rating tipi">0</a></center>
+				<center><span class="status"><a href="/rating" class="ajax-site tipi">Стажер</a></span></center>
+			  </td>
+			</tr>
+		  </tbody></table>
+		  
+		  <center>
+		    		      <div id="DivImg"><a onclick="SetQuery();" style="cursor: pointer;" class="e_bonus" title="Забрать ежедневный бонус к рейтингу"></a></div>
+		    		    <a class="ajax-site r-schet2" href="money_add" title="">
+		      <font color="green">
+		        Рекламный счет: <span id="new-money-rekl">0.00<span style="font-size:10px;color:#b2b2b2;">00</span></span> ₽
+		      </font>
+		    </a>
+			<a class="ajax-site osn-schet2" href="payment?hash=cda60200a34bd69064a9ea051194a013" title="">
+			  <font color="green">
+			    Основной счет: <span id="new-money-ballans">0.00<span style="font-size:10px;color:#b2b2b2;">00</span></span> ₽
+			  </font>
+			</a>
+            		  </center>
+
+                
+      </div>
+ <!--     
+       -->     
+      <br>
+      
+            
+      	  
+	  <div class="blok">
+		<h1>Меню</h1>
+		<div class="usermenu">
+		  <center>
+		    
+		    <span id="mnu_title1" class="usermnutitle-g">Заработать</span>
+		    <div id="mnu_tblock1" class="usermnublock">
+		      <a class="ajax-site usermnuline-act" href="./work-serf?ctrll=9aa618f91a4eb4ff143e9c7037fe63419aa618f91a4eb4ff143e9c7037fe6341">Серфинг сайтов</a>
+		      
+                  <a class="ajax-site user_menuline" href="./work-jump?hash=29d24f13e8c02e64e6871f4064c3e17c">Переходы</a>
+              
+              <a class="ajax-site user_menuline" href="./mails_new?hash=2485e4b1c9ace4d57511be7cf8fea057">Чтение писем</a>
+              <a class="ajax-site user_menuline" href="./work-task">Выполнение заданий</a>
+              <a class="ajax-site user_menuline" href="./work-test?hash=97969df4491fbbd8dbb8fb32bdc18e39">Прохождение тестов</a>
+		      <a class="ajax-site user_menuline" href="./work-youtube?hash=70dfe3168162eff9989d3f32946d7048">YouTube</a>
+		      <a class="ajax-site user_menuline" href="./work-rutube?hash=14256751a16fc998c517cd283a5739b2">Rutube</a>
+		      <a class="ajax-site user_menuline" href="./work-vk?hash=fb22e7bf06bf634f6eae7b933a127b4e">ВКонтакте</a>
+<a class="ajax-site user_menuline" href="./work-offers?hash=358333e72594a8099060f6cd23fca9da">Offers</a>
+
+		      <!--<a class="ajax-site user_menuline" href="./work-instagram?hash=cc79ac27ea9a82337f1e18dd915bf88f">Instagram</a>-->
+			  <a class="user_menuline" href="https://chrome.google.com/webstore/detail/profitcentrcom/pibmcnpamlghbbmconmceknbiojmbddl?hl=ru&amp;authuser=0" target="_blank">Работа в расширении</a>
+		      <a class="ajax-site user_menuline" href="./refkonkurs?s=view">Конкурсы от реферера&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+			  <a class="ajax-site user_menuline" href="./refbonus?s=bonus_view">Бонусы от реферера&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="/blacklist-advertisers">Черный список</a>
+            </div>
+            
+            <span id="mnu_title2" class="usermnutitle-g">Рекламодателю</span>
+            <div id="mnu_tblock2" class="usermnublock" style="display: none;">
+              <a class="ajax-site user_menuline" href="./advertise?adv=serf">Разместить рекламу</a>
+              <a class="ajax-site user_menuline" href="./advm-serf">Управ-ние рекламой</a>
+              <a class="ajax-site user_menuline" href="./advm-jump">Управ-ние переходами</a>
+              <a class="ajax-site user_menuline" href="./advm-task">Управ-ние заданиями </a>
+              <a class="ajax-site user_menuline" href="./advm-test">Управ-ние тестами</a>
+		      <a class="ajax-site user_menuline" href="./advm-youtube">Управ-ние YouTube</a>
+		      <a class="ajax-site user_menuline" href="./advm-rutube">Управ-ние Rutube</a>
+		      <a class="ajax-site user_menuline" href="./advm-vk">Управ-ние VK</a>
+		      <!--<a class="ajax-site user_menuline" href="./advm-instagram">Управ-ние Instagram</a>-->
+			  <a class="ajax-site user_menuline" href="./advm-expansion">ЯДзен, ЯМузыка, TikTok</a>
+              <a class="ajax-site user_menuline" href="/blacklist-freelancers">Черный список</a>
+              <a class="ajax-site user_menuline" href="/whitelist-freelancers">Белый список</a>
+			  <a class="ajax-site user_menuline" href="/api-interface">API заданий</a>
+			  <a class="ajax-site user_menuline" href="/api-youtube">API YouTube</a>			  
+            </div>
+            
+            <span id="mnu_title3" class="usermnutitle-g">Реф-система</span>
+            <div id="mnu_tblock3" class="usermnublock" style="display: none;">
+              <a class="ajax-site user_menuline" href="./goodref">Реф-стена (GoodRef)</a>
+              <a class="ajax-site user_menuline" href="./reflinks">Пригласить рефералов</a>
+              <a class="ajax-site user_menuline" href="./referals">Мои рефералы&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="./referals_2">Рефералы 2 уровня</a>
+              <a class="ajax-site user_menuline" href="./refbirj">Биржа рефералов</a>
+              <a class="ajax-site user_menuline" href="./refkonkurs?s=myview">Конкурсы для рефералов</a>
+			  <a class="ajax-site user_menuline" href="./refbonus?s=bonus_myview">Бонусы для рефералов</a>
+              <a class="ajax-site user_menuline" href="./mess_new_ref">Приветствие рефералам</a>
+              <a class="ajax-site user_menuline" href="./new_mail?s=rass">Массовая рассылка</a>
+            </div>
+            
+            <span id="mnu_title4" class="usermnutitle-g">Личный кабинет</span>
+            <div id="mnu_tblock4" class="usermnublock" style="display: none;">
+              <a class="ajax-site user_menuline" href="./rating">Карьера</a>
+              <a class="ajax-site user_menuline" href="./members">Мой аккаунт</a>
+              <a class="ajax-site user_menuline" href="./wall?uid=4007841">Моя стена</a>
+              <a class="ajax-site user_menuline" href="./new_mail">Моя почта&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="./sys_mail">Систем. сообщения&nbsp;&nbsp;<font color="#FE8710">[0]</font></a>
+              <a class="ajax-site user_menuline" href="./friends">Мои друзья</a>
+              <a class="ajax-site user_menuline" href="./profile">Мои личные данные</a>
+              <a class="ajax-site user_menuline" href="./history">История операций</a>
+              <a class="ajax-site user_menuline" href="./note">Блокнот</a>
+              <a class="ajax-site user_menuline" href="./offers">Предложения для сайта</a>
+            </div>
+            
+                        
+          </center>
+        </div>
+      </div>
+<!--
+      <div style="text-align:center">		
+	<br>
+        <div class="blok">
+          <h1>Реклама (Баннер 100х100)</h1><br>
+         <div id="baner100" style="height:115px"></div>
+          <script>banners_100();</script>
+          <br>
+          <div style="text-align:center;">
+            <span class="desctext"><a class="ajax-site" href="advertise?adv=banners">Разместить баннер</a></span>
+          </div>
+        </div>
+ </div>
+-->
+<!--
+<div class="blok">
+<h1>Тут лампово</h1>
+<a href="https://t.me/profitcentr_official" target="_blank" style="border:0;"><img src="images/telegram.jpg" alt="" style="margin-top:4px;"></a><br>
+</div>
+-->
+    <div style="color: #f0f0f0;text-align:center; text-shadow: 1px 1px 0px #444444; font-size: 15px;margin-top:5px">
+      <span id="day" translate="no">27</span>.<span id="month" translate="no">09</span>.<span id="year" translate="no">2023</span> <span id="hours" translate="no">03</span>.<span id="min" translate="no">36</span>.<span id="sec" translate="no">39</span>
+    </div>
+
+		  
+    
+
+  
+  
+</div></td>
+        <td style="width:600px; vertical-align:top;">
+          <div id="contentwrapper">
+            <div id="maincolumn">
+              <div class="text">
+                
+      
+          <span class="msg-warning">
+        Пожалуйста перейдите на страницу "<a href="profile" class="ajax-site" style="color: #fff; border-bottom: 1px dotted;">Мои личные данные</a>"<br>
+        и укажите Имя, пол и дату рождения.
+      </span>
+        
+  
+                <div class="blok">
+
+      
+    <h1>
+  <b class="menu-earnings">
+    <a class="ajax-site active" href="work-serf?ctrll=9aa618f91a4eb4ff143e9c7037fe63419aa618f91a4eb4ff143e9c7037fe6341">Серфинг</a>&nbsp;:
+
+
+<a class="ajax-site " href="work-jump?hash=29d24f13e8c02e64e6871f4064c3e17c">Переходы</a>&nbsp;:
+
+    <a class="ajax-site " href="mails_new?hash=2485e4b1c9ace4d57511be7cf8fea057">Письма</a>&nbsp;:
+	<a class="ajax-site " href="work-task">Задания</a>&nbsp;:&nbsp;
+    <a class="ajax-site " href="work-test?hash=97969df4491fbbd8dbb8fb32bdc18e39">Тесты</a>&nbsp;:
+    <a class="ajax-site " href="work-youtube?hash=70dfe3168162eff9989d3f32946d7048">Youtube</a>&nbsp;:
+    <a class="ajax-site " href="work-vk?hash=fb22e7bf06bf634f6eae7b933a127b4e">VK</a>&nbsp;:
+<a class="ajax-site " href="work-offers?hash=794dd4e078e94d2d57b292cbac4f052a">Offers</a>
+<!--<a class="ajax-site " href="work-instagram?hash=cc79ac27ea9a82337f1e18dd915bf88f">Inst</a>-->
+  </b>
+</h1>  
+          <style>#serf-link-8164500{display:none;}</style>
+        
+    <script>
+    	funcjs['go-serf'] = function(id, hash){
+    	  if(status_form == '0'){
+			    status_form = 1;
+			    $.ajax({
+			      url: '/ajax/earnings/ajax-serf.php', type: 'POST',
+			      data:{ 'id' : id, 'hash' : hash, 'func': 'go-serf' },
+			      beforeSend: function (){ $('#start-serf-'+id).html('<div style="text-align:center;"><img src="images/otyn/spinner.gif"></div>'); },
+			      error: function (){
+			      	status_form = 0;
+			      	$('#start-serf-'+id).html('<span class="butt-error-test">Ошибка</span>');
+			      },
+			      success: function (infa){
+			      	status_form = 0;
+			      	$('#start-serf-'+id).html(infa);
+			      }
+			    });
+			  }
+			  return false;	
+        }
+      
+        funcjs['serf-mess'] = function(id, mess, balance=''){
+		    $(id).html('<div style="text-align:center;padding-top:5px;color:green;">'+mess+'</div>');
+            if (balance != '') {
+                $('#new-money-ballans').html(balance);    
+            }
+	    }
+    </script>
+    
+    
+  <br><span class="status">&nbsp;Статические ссылки</span>
+<span class="youtube-help"><a href="advertise?adv=statlinks" class="desctext ajax-site"><b>+</b></a>&nbsp;&nbsp;</span>
+<hr>
+
+    
+          <table class="stat" style="width:100%; border-collapse:collapse;">
+        <tbody><tr>
+          <td>
+            <img src="images/none.png" style="vertical-align:center;" alt="">
+            <a href="https://worker.cash/u/21035" target="_blank">Автопросмотр видео с телефона!</a>
+          </td>
+        </tr>
+      </tbody></table>
+          <table class="stat" style="width:100%; border-collapse:collapse;">
+        <tbody><tr>
+          <td>
+            <img src="images/none.png" style="vertical-align:center;" alt="">
+            <a href="https://ref.adbtc.top/242559" target="_blank">Заработок на просмотре рекламы</a>
+          </td>
+        </tr>
+      </tbody></table>
+        
+  
+  <br><br>
+  
+  <span class="status">&nbsp;Серфинг сайтов</span><hr>
+  
+      
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8155240" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8155240">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          <img src="images/ico32/vip.png" alt="">
+          
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8155240">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8155240','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://b.trackitsoftly.online/?aid=758&amp;utm_source=profitcentr&amp;utm_medium=ptc&amp;utm_campaign=INDEX" style="cursor:pointer;">Выводи до 6000 ₽ в день! Инвестируй с доходностью до 400%</a><br>
+            <span class="desctext">Крупнейшая игра с выводом. Получи подарок за регистрацию!</span>
+          </div>
+          
+          <div id="id_8155240" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8155240<br>
+              Сайт: <a href="https://b.trackitsoftly.online/?aid=758&amp;utm_source=profitcentr&amp;utm_medium=ptc&amp;utm_campaign=INDEX" target="_blank">https://b.trackitsoftly.online/?aid=758&amp;utm_source=profitcentr&amp;utm_medium=ptc&amp;utm_campaign=INDEX</a><br>
+              Дата размещения: <b>02.11.2022 в 16:10</b><br>
+              Заказ до: 13.10.2023г. 17:17. Просмотрено пользователями: 2189152<br>
+              
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8155240', false, 550, 'func=serf&amp;id=8155240', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8155240');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8120703" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8120703">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          <img src="images/ico32/vip.png" alt="">
+          
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8120703">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8120703','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://profitcentr.com/work-task-read?adv=516999" style="color:#C80000;cursor:pointer;">40 рублей за 1 клик [быстрая оплата]</a><br>
+            <span class="desctext">Присоединяйся!</span>
+          </div>
+          
+          <div id="id_8120703" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8120703<br>
+              Сайт: <a href="https://profitcentr.com/work-task-read?adv=516999" target="_blank">https://profitcentr.com/work-task-read?adv=516999</a><br>
+              Дата размещения: <b>01.05.2020 в 19:55</b><br>
+              
+              Просмотрено пользователями: 10869. Осталось: 9131 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(9131)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8120703', false, 550, 'func=serf&amp;id=8120703', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8120703');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8163991" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8163991">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          <img src="images/ico32/vip.png" alt="">
+          
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8163991">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8163991','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://worker.cash/u/20561" style="cursor:pointer;">Много ютуб роликов для просмотра!</a><br>
+            <span class="desctext">Без вложений!</span>
+          </div>
+          
+          <div id="id_8163991" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8163991<br>
+              Сайт: <a href="https://worker.cash/u/20561" target="_blank">https://worker.cash/u/20561</a><br>
+              Дата размещения: <b>04.09.2023 в 13:38</b><br>
+              
+              Просмотрено пользователями: 11376. Осталось: 68 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#f80000">(68)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8163991', false, 550, 'func=serf&amp;id=8163991', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8163991');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8144063" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8144063">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          <img src="images/ico32/vip.png" alt="">
+          
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8144063">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8144063','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://everve.net/ref/111185/" style="cursor:pointer;">Автоматический заработок без вложений!</a><br>
+            <span class="desctext">Самый прибыльный заработок в долларах $</span>
+          </div>
+          
+          <div id="id_8144063" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8144063<br>
+              Сайт: <a href="https://everve.net/ref/111185/" target="_blank">https://everve.net/ref/111185/</a><br>
+              Дата размещения: <b>13.10.2021 в 10:26</b><br>
+              
+              Просмотрено пользователями: 66334. Осталось: 143 шт.<br>
+              Таймер: <b>15</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(143)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.021 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8144063', false, 550, 'func=serf&amp;id=8144063', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8144063');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8163071" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8163071">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          <img src="images/ico32/vip.png" alt="">
+          
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8163071">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8163071','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://payup.video/u/354047" style="cursor:pointer;">Просмотр видео в долларах</a><br>
+            <span class="desctext">Есть автокликер для андроид ,видеоинструкция на сайте</span>
+          </div>
+          
+          <div id="id_8163071" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8163071<br>
+              Сайт: <a href="https://payup.video/u/354047" target="_blank">https://payup.video/u/354047</a><br>
+              Дата размещения: <b>28.07.2023 в 13:32</b><br>
+              
+              Просмотрено пользователями: 7529. Осталось: 23 шт.<br>
+              Таймер: <b>25</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#f80000">(23)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.035 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8163071', false, 550, 'func=serf&amp;id=8163071', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8163071');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8163605" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8163605">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8163605">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8163605','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://doxod24.net/206898" style="cursor:pointer;">Заработок от 0. 5р за просмотр. Много работы</a><br>
+            <span class="desctext">просмотры,лайки,репорты,задания+ежедневные призы</span>
+          </div>
+          
+          <div id="id_8163605" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8163605<br>
+              Сайт: <a href="https://doxod24.net/206898" target="_blank">https://doxod24.net/206898</a><br>
+              Дата размещения: <b>20.08.2023 в 09:05</b><br>
+              
+              Просмотрено пользователями: 11534. Осталось: 223 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(223)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8163605', false, 550, 'func=serf&amp;id=8163605', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8163605');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8158750" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8158750">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8158750">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8158750','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://profitcentr.com/wall?uid=1572830" style="cursor:pointer;">Присоединяйтесь к моей команде</a><br>
+            <span class="desctext">Нажмите на кнопку хочу стать рефералом</span>
+          </div>
+          
+          <div id="id_8158750" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8158750<br>
+              Сайт: <a href="https://profitcentr.com/wall?uid=1572830" target="_blank">https://profitcentr.com/wall?uid=1572830</a><br>
+              Дата размещения: <b>24.02.2023 в 02:48</b><br>
+              
+              Просмотрено пользователями: 5955. Осталось: 45 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#f80000">(45)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.043 руб</span><br>
+
+          <img src="images/ico16/act.png" alt="" title="Просмотр ссылки только в активном окне" width="16" height="16">
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8158750', false, 550, 'func=serf&amp;id=8158750', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8158750');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8164389" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8164389">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8164389">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8164389','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://pharmacy-game.biz/?i=7" style="cursor:pointer;">100 руб за регистрацию - нет баллов</a><br>
+            <span class="desctext">Надежная игра с выводом реальных денег</span>
+          </div>
+          
+          <div id="id_8164389" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8164389<br>
+              Сайт: <a href="https://pharmacy-game.biz/?i=7" target="_blank">https://pharmacy-game.biz/?i=7</a><br>
+              Дата размещения: <b>21.09.2023 в 21:00</b><br>
+              
+              Просмотрено пользователями: 6802. Осталось: 1198 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(1198)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8164389', false, 550, 'func=serf&amp;id=8164389', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8164389');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8147005" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8147005">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8147005">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8147005','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://prof.expresswallet.fun/?a=user&amp;r=30111" style="cursor:pointer;">Пассивный доход каждую секунду! Бонус за регистрацию!</a><br>
+            <span class="desctext">Смотри мою выплату 14 500 руб. и вложение в 30 000 рублей!</span>
+          </div>
+          
+          <div id="id_8147005" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8147005<br>
+              Сайт: <a href="https://prof.expresswallet.fun/?a=user&amp;r=30111" target="_blank">https://prof.expresswallet.fun/?a=user&amp;r=30111</a><br>
+              Дата размещения: <b>04.02.2022 в 14:29</b><br>
+              
+              Просмотрено пользователями: 17329. Осталось: 52671 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(52671)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8147005', false, 550, 'func=serf&amp;id=8147005', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8147005');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8163904" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8163904">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8163904">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8163904','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://affiliate.iqbroker.com/redir/?aff=6649&amp;afftrack=profitcentr" style="cursor:pointer;">Показываю, как зарабатывать!</a><br>
+            <span class="desctext">Простой способ заработка от 25 000 до 100 000 рублей в день!</span>
+          </div>
+          
+          <div id="id_8163904" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8163904<br>
+              Сайт: <a href="https://affiliate.iqbroker.com/redir/?aff=6649&amp;afftrack=profitcentr" target="_blank">https://affiliate.iqbroker.com/redir/?aff=6649&amp;afftrack=profitcentr</a><br>
+              Дата размещения: <b>01.09.2023 в 15:55</b><br>
+              
+              Просмотрено пользователями: 6112. Осталось: 1478 шт.<br>
+              Таймер: <b>15</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(1478)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.021 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8163904', false, 550, 'func=serf&amp;id=8163904', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8163904');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8163962" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8163962">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8163962">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8163962','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://surfe.be/ext/2462875" style="cursor:pointer;">Топовое расширение №1</a><br>
+            <span class="desctext">установи расширение и получай пассивный доход</span>
+          </div>
+          
+          <div id="id_8163962" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8163962<br>
+              Сайт: <a href="https://surfe.be/ext/2462875" target="_blank">https://surfe.be/ext/2462875</a><br>
+              Дата размещения: <b>03.09.2023 в 13:13</b><br>
+              
+              Просмотрено пользователями: 3115. Осталось: 199 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(199)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8163962', false, 550, 'func=serf&amp;id=8163962', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8163962');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8164500" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8164500">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8164500">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8164500','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://ref.adbtc.top/242559" style="cursor:pointer;">Зарабатывай Биткойны</a><br>
+            <span class="desctext">Море серфинга и автосерфинга за криптовалюту</span>
+          </div>
+          
+          <div id="id_8164500" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8164500<br>
+              Сайт: <a href="https://ref.adbtc.top/242559" target="_blank">https://ref.adbtc.top/242559</a><br>
+              
+              
+              Просмотрено пользователями: 0. Осталось: 7791 шт.<br>
+              Таймер: <b>45</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(7791)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.043 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8164500', false, 550, 'func=serf&amp;id=8164500', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8164500');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+
+
+  <!-- noindex-->
+  <div>
+    <table id="serf-link-8163037" class="work-serf" style="width:100%; border-collapse:collapse;">
+    <tbody>
+      <tr class="de_8163037">
+        <td class="normal" style="vertical-align:center;width:32px;">
+          
+          <img src="images/ico32/standart.png" alt="">
+        </td>
+        <td class="normal" style="vertical-align:top;">
+          
+          <div id="start-serf-8163037">
+            
+            
+            
+            <a onclick="funcjs['go-serf']('8163037','8eb2d2468563aa40478e3eace5633be0');return false;" title="https://rollercoin.com/?r=kdx3kn56" style="cursor:pointer;">Майнинг игра. Выплата каждые 10 минут. Сайт очень хороший</a><br>
+            <span class="desctext">Пассивный доход.бонус при регистраций.</span>
+          </div>
+          
+          <div id="id_8163037" style="border-left:1px solid #00972E; margin-left:0px; padding-left:5px; border-top:1px solid #00972E; margin-top:5px; padding-top:5px; display: none;">  
+            <span class="desctext">
+              № ссылки: 8163037<br>
+              Сайт: <a href="https://rollercoin.com/?r=kdx3kn56" target="_blank">https://rollercoin.com/?r=kdx3kn56</a><br>
+              Дата размещения: <b>27.07.2023 в 11:56</b><br>
+              
+              Просмотрено пользователями: 8023. Осталось: 190 шт.<br>
+              Таймер: <b>20</b> секунд&nbsp;&nbsp;Жалоб: <b>0</b><br>
+            </span>
+          </div>
+        </td>
+        <td class="normal" style="text-align:right;vertical-align:top;width:120px;white-space: nowrap;">
+<span class="desctext" title="Осталось визитов" style="cursor: help;color:#ABB5B1">(190)</span>
+          <span title="Стоимость просмотра" style="cursor:help;">0.033 руб</span><br>
+
+          
+          <a href="#" onclick="popup_w('Жалоба на ссылку №8163037', false, 550, 'func=serf&amp;id=8163037', 'ajax/users/abuse/pop-up-abuse.php');return false;">
+            <img src="images/ico16/protect_green.png" alt="" title="Подать жалобу на ссылку" style="border:0;" width="16" height="16">
+          </a>
+          <a class="workquest" href="#" onclick="show_window('#id_8163037');return false;" title="Подробная информация"></a>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+  </div>
+  <!--/noindex-->  
+          
+    
+    
+    <div>
+      <table class="work-serf" style="width:100%; border-collapse:collapse;">
+      <tbody>
+        <tr>
+          <td class="normal" style="vertical-align:top; width:18px;">
+         <img src="images/ico32/standart.png" alt="">
+          </td>
+          <td class="normal" style="vertical-align:top;">
+            <a href="work-task" target="_blank">Закончились ссылки в серфинге? Переходи к заданиям и продолжай зарабатывать!</a><br>
+            <span class="desctext">Множество легких заданий с хорошей оплатой ждут Вас</span>
+          </td>
+          <td class="normal" style="white-space: nowrap;vertical-align:top;"></td>
+        </tr>
+      </tbody>
+      </table>
+    </div>
+
+    <div>
+      <table class="work-serf" style="width:100%; border-collapse:collapse;">
+      <tbody>
+        <tr>
+          <td class="normal" style="vertical-align:top; width:18px;">
+           <img src="images/ico32/standart.png" alt="">
+          </td>
+          <td class="normal" style="vertical-align:top;">
+            <a href="txt_links" target="_blank">Это может быть интересно!</a><br>
+            <span class="desctext">Объявления наших пользователей.</span>
+          </td>
+          <td class="normal" style="white-space: nowrap;vertical-align:top;"></td>
+        </tr>
+      </tbody>
+      </table>
+    </div>
+	
+         
+</div>
+
+
+  <br>
+  <div class="wall-ad" id="wall-ad">
+    <a target="_blank" href="/go/go-txt.php?id=12061" class="ad-title">Топ заработок на youtube</a>
+     <div class="newdoskars">Смотри короткие видео, получай и выводи в $</div>
+     <a target="_blank" href="/go/go-txt.php?id=12061" class="ad-url-pars">payup.video</a>
+      <a class="ad-ico tipi ajax-site" href="txt_links"></a>
+      <a class="ad-add ajax-site" href="advertise?adv=txt">Разместить объявление</a>
+  </div>
+
+<br>
+
+
+<!--noindex--><div id="baner" style="min-height:75px"><span id="banner468x60_2"><a href="/go/go-banners.php?id=65984" target="_blank"><img src="/upload_banners/7cf1f126b701ae2a7884b7cfcbc41468.gif" style="min-width:468px;min-height:60px" alt=""></a></span></div><!--/noindex-->
+<div style="text-align:center;" class="desctext"><a href="advertise?adv=banners" class="ajax-site">Разместить баннер</a> | <a href="banners-all" class="ajax-site">Смотреть все</a></div>
+<script>
+  hrefArray2 = new Array ('/go/go-banners.php?id=65951','/go/go-banners.php?id=65949','/go/go-banners.php?id=65984','/go/go-banners.php?id=65964','/go/go-banners.php?id=65977','/go/go-banners.php?id=65950','/go/go-banners.php?id=65983','/go/go-banners.php?id=65952');  
+imgArray2 = new Array ('/upload_banners/b50e9137b17e6175354b1e97616e4bac.gif','/upload_banners/451f28bfae78bc650b1d914876b3c2b3.gif','/upload_banners/7cf1f126b701ae2a7884b7cfcbc41468.gif','/upload_banners/deefa9770c36c28baaccdae52e59c3e9.gif','/upload_banners/e0faa107bbf0e98d0fc0e49977f97f33.jpeg','/upload_banners/5d7529faaa60d1de80030e6d9a1f9de8.gif','/upload_banners/ea4224cc8efd01bb6534b3e29a3cab83.gif','/upload_banners/baacf5236eef273011127bb50dd26b60.gif');  var i_b_468_2 = 7;
+  banners_bottom();
+</script>              </div>
+            </div>
+          </div>
+        </td>
+        <td style="width:200px; vertical-align:top;"><div id="rightcolumn">
+  <div id="menu-control">1</div>
+  
+    
+    
+    <div class="blok">
+	  <h1>Доска почета</h1>
+	  <center>
+        <span style="font-size: 11px;" class="status">Всем привет!</span><br>
+        <div id="chec-doska">
+          <span style="font-size: 13px; color: #F80000;" class="status" id="board-css-sex">Я <span id="id_board-user" style="color:#E25656;">tatyanastar</span></span><br>
+          <span style="font-size: 11px;" class="status">
+            <span id="id_board-rating-text">Рабочий</span>
+            (<span id="id_board-refbek">0</span> %)
+          </span><br>
+          <a href="/wall?uid=3977309" class="ajax-site" id="id_board-link">
+            <div id="ava" style="padding-top:9px;">
+              <img style="width: 135px; height: 135px; border: 1px solid #cccccc; padding: 2px; border-radius: 7px; box-shadow: 0 0 2px rgba(0,0,0,0.5); margin-bottom:5px;" src="https://profitcentr.me/ava/no_avatar.png" alt="avatar" title="Перейти на стену tatyanastar" id="id_board-avatar">
+            </div>
+          </a>
+          <div style="display: none" id="id_board-comment-block">
+            <br>
+            <span style="font-size: 11px;" class="status">
+              <font id="id_board-comment" color="#F80000"></font>
+            </span>
+            <br>
+          </div>
+        </div>
+        <a class="btn orange ajax-site" style="color:#fff; margin:8px 0 5px 5px;" href="./add_to_desck">Хочу сюда</a> <br><a style="color:green;" class="ajax-site" href="./add_to_desck">Ежедневный конкурс</a>
+	  </center>
+    </div>
+
+	<br>
+	
+		
+		  <!--noindex-->
+	  <div class="blok">
+        <h1>Контекстная реклама</h1>
+        <div class="contextlink">
+          <a href="/go/go.php?id=376622" target="_blank" style="color:#FF8000;">Серфинг за биткойны<br><span>Серфинг и автосерфинг за Bitcoin</span></a><hr><a href="/go/go.php?id=377508" target="_blank" style="color:#006699;">350% after 2 days<br><span>Earn (120%~350%) Profit Fast Within 2 Days, 100% paying instant</span></a><br><a href="/go/go.php?id=376773" target="_blank" style="color:#FC8000;">Ремонт газовых котлов,колонок<br><span>Наш сервисный центр предоставляет услуги по ремонту и сервисному обслуживанию газовых колонок и котлов отопления любых марок и моделей.
+
+У нас работ</span></a><br><a href="/go/go.php?id=377501" target="_blank" style="color:#006699;">Муассаниты лучшего качества<br><span>Купить муассаниты лучшего качества по доступным ценам</span></a><br><a href="/go/go.php?id=373235" target="_blank" style="color:#006699;">Продвижение социальных сетей<br><span>Дешевые лайки, подписчики, комментарии.</span></a><br><a href="/go/go.php?id=377587" target="_blank" style="color:#006699;">Новое приложение для заработка<br><span>Проверено. Платит.</span></a><br><a href="/go/go.php?id=375918" target="_blank" style="color:#006699;">Просмотр рекламы за деньги!<br><span>Платят деньги за посещение сайтов, просмотры видео (youtube) и переходы по ссылкам. Есть реферальная программа.</span></a><br><a href="/go/go.php?id=376185" target="_blank" style="color:#006699;">Конгресс возможностей в турции<br><span>10-11 ноября в Сочи
+15-16 ноября в Анталии.</span></a><br>          <a href="advertise?adv=kontext" class="ajax-site" style="font-size:90%;">Разместить ссылку</a><br>
+        </div>
+      </div>
+
+<br><div class="blok">
+<h1>Заходи, не стесняйся</h1>
+<a href="https://t.me/profitcentr_official" target="_blank" style="border:0;"><img src="images/telegram.jpg" alt="" style="margin-top:4px;"></a><br>
+</div>
+
+      
+      <!--      
+          <br><a href="https://goo.gl/Z1mXhP" target="_blank" style="border:0;"><img src="./images/lety.gif" alt="" style="width:200px; heigth:120px;"></a>      
+      -->
+      
+      <!--/noindex-->
+      
+	    
+    
+</div></td>      </tr>
+    </tbody></table>
+    
+    <div class="empty"></div>
+    
+  </div>
+  
+  <div id="footer">
+    
+    <div id="wrap">
+    
+        <div class="footer-flex">
+            
+            <div class="footer-row" style="margin-left: 0;">
+                <span class="footer-title">Обучение и помощь</span>
+                <a class="ajax-site" href="/faq">Помощь</a>
+                <a href="https://t.me/profitcentr_official" target="_blank">Телеграм чат</a>				
+                <a class="ajax-site" href="/support?bill=open">Техподдержка</a>
+            </div>
+             
+            <div class="footer-row">
+                <span class="footer-title">Юридические соглашения</span>
+				<a class="ajax-site" href="/services">Услуги и цены</a>				
+                <a class="ajax-site" href="/tos">Публичная оферта</a>
+                <a class="ajax-site" href="privacy_policy">Политика конфиденциальности</a>
+            </div>
+			
+            <div class="footer-row">
+                <span class="footer-title">Информация</span>
+			
+                <a class="ajax-site" href="/pay_today">Выплаты</a>
+                <a class="ajax-site" href="api">Разработчикам</a>
+<a class="ajax-site" href="/black-list">Черный список сайтов</a>            </div>
+            
+                            <div class="footer-row">
+                    <span class="footer-title">Статистика</span>
+                    <span class="footer-line">Исполнителей: <font color="#F5DEB3">296 826</font> чел.</span>
+                    <span class="footer-line">Новых за 24 часа: <font color="#F5DEB3">1304</font>  чел.</span>
+                    <span class="footer-line">Выплачено: <font color="#F5DEB3">153 464 864.00</font> руб.</span>
+                </div>
+                        
+            <div class="footer-row" style="margin-right: 0;">
+                <span class="footer-title">О нас</span>
+                <a class="ajax-site" href="kontakt">Контакты</a>
+				<a class="ajax-site" href="/admincommand">Админкоманда</a>
+                <a class="ajax-site" href="/">© PROFITCENTR 2009-2023</a>
+            </div>
+            
+        </div>
+
+    </div>
+  </div>
+  
+  <a style="position: fixed; bottom: 60px; right: 1px; cursor:pointer; display:none;" id="Go_Top"><img src="img/topp.png" alt="Наверх" title="Наверх"></a>
+  <a style="position: fixed; bottom: 20px; right: 1px; cursor: pointer;" id="Go_Bottom"><img src="img/down.png" alt="Вниз" title="Вниз"></a>
+
+  
+
+<div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" alt="" width="24" height="24"></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div><div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 0px; height: 0px; display: none;" frameborder="0"></iframe><iframe class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 0px; height: 0px; display: none;" frameborder="0"></iframe><div id="tiptip_holder" style="margin: 262px 0px 0px 98px; display: none;" class="tip_bottom"><div id="tiptip_arrow" style="margin-left: 53px; margin-top: -12px;"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content">Мой рейтинг: 0.00</div></div></body></html>
