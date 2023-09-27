@@ -13,14 +13,15 @@ aBi.click() #login
 time.sleep(10)
 username = driver.find_element(By.NAME,'username')
 username.send_keys('heliiooo0202@gmail.com')
-time.sleep(10)
+time.sleep(2)
 password = driver.find_element(By.NAME,'password')
 password.send_keys('swml6c5d')
-input('...')
+a = input('...')
 abi = driver.find_element(By.ID,'mnu_title1')
 abi.click()
+time.sleep(5)
 abi =  driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[1]/div/div[2]/div/center/div[1]/a[1]')
-
+abi.click()
 click
 driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[2]/div/div/div/div[1]/div[1]/table/tbody/tr/td[2]')#CLASS_NAME,'
 '''
