@@ -6,7 +6,19 @@ from bs4 import BeautifulSoup
 driver = webdriver.Firefox(executable_path='/home/quanabi/Desktop/abi/geckodriver')
 #driver.get("http://www.bzzii.glitch.me/")
 driver.get('https://profitcentr.com/')
-#bq = driver.page_source
+aBi = driver.find_element(By.XPATH, "/html/body/div[6]/table[2]/tbody/tr/td[1]/div/a[2]")
+aBi.click() #login
+username = driver.find_element(By.NAME,'username')
+username.send_keys('heliiooo0202@gmail.com')
+password = driver.find_element(By.NAME,'password')
+password.send_keys('swml6c5d')
+input('...')
+
+input('...')
+bq = driver.page_source
+abi = open('a2.txt', 'w')
+abi.write(bq)
+abi.close()
 '''
 heliiooo0202@gmail.com
 swml6c5d
@@ -17,6 +29,4 @@ bq2 = soup.find_all('div',{'class': 'lRu31'})
 print(bq2)
 '''
 #/html/body/div[6]/table[2]/tbody/tr/td[1]/div/a[2]
-aBi =  driver.find_element(By.XPATH, "/html/body/div[6]/table[2]/tbody/tr/td[1]/div/a[2]")
-aBi.click()
 #driver.close()
