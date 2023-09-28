@@ -26,19 +26,34 @@ username.send_keys('heliiooo0202@gmail.com')
 time.sleep(2)
 password = driver.find_element(By.NAME,'password')
 password.send_keys('swml6c5d')
+ProfiTCentR - Вход в аккаунт на Profitcentr
 
 
 a = input('abi ...')
 abi1 = driver.find_element(By.XPATH,'//*[@id="mnu_title1"]')
 print(abi1)
-time.sleep(20)
-abi1.click()
+driver.execute_script("arguments[0].click();",abi1)
+time.sleep(2)
 ab2i =  driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[1]/div/div[2]/div/center/div[1]/a[1]')
 time.sleep(5)
 ab2i.click()
-driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[2]/div/div/div/div[1]/div[1]/table/tbody/tr/td[2]')#CLASS_NAME,'
+ab2i =  driver.find_element(By.CSS_SELECTOR,'#start-serf-8144063 > a:nth-child(1)').click()
+ab2i =  driver.find_element(By.CSS_SELECTOR,'.butt-yes-test')#view
+
+
+
+
+
+
+ab2i =  driver.find_element(By.XPATH,'/html/body/table/tbody/tr/td[2]/table/tbody/tr/td[2]/form/button')
+
+driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[2]/div/div/div/div[1]/div[1]/table/tbody/tr/td[2]')
+
+#CLASS_NAME,'
 '''
 lass="usermnutitle-g"> is not clickable at point (102,452) because another element <html> obscures it
+element = driver.find_element_by_id('lg_1166')
+driver.execute_script("arguments[0].click();", element)
 
 heliiooo0202@gmail.com
 swml6c5d
