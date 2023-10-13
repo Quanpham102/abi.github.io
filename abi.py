@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 
 from selenium.webdriver.common.keys import Keys
@@ -195,7 +194,7 @@ class aBi():
 
               os.remove(self.src)
 
-              time.sleep(2) 
+              time.sleep(20) 
 
               if self.driver.title == 'ProfiTCentR - Вход в аккаунт на Profitcentr' :
 
@@ -261,7 +260,7 @@ class aBi():
 
     username.send_keys(self.username) 
 
-    time.sleep(2) 
+    time.sleep(20) 
 
     password = self.driver.find_element(By.NAME,'password') 
 
@@ -273,7 +272,13 @@ class aBi():
 
     self.function_cap(bq[0][0][0])
 
-    
+
+
+  def click_youtube(self):
+
+    self.click_element(By.XPATH,'//*[@id="mnu_tblock1"]/a[6]')
+
+    time.sleep(20)
 
   def main_start(self):
 
@@ -285,27 +290,41 @@ class aBi():
 
     aBi.click() #login ProfiTCentR - Вход в аккаунт на Profitcentr
 
-    time.sleep(2) 
+    time.sleep(20) 
 
     print(self.driver.title)
 
     self.login()
 
+    self.driver.switch_to.new_window('tab')
+
+    self.driver.get('chrome://settings/') 
+
+    self.driver.execute_script('chrome.settingsPrivate.setDefaultZoom(0.5);')
+
+    self.driver.set_window_size(270, 768)
+
+    self.driver.close()
+
+    self.driver.switch_to.window(self.driver.window_handles[0])
+
     time.sleep(20) 
 
     abi1 = self.driver.find_element(By.XPATH,'//*[@id="mnu_title1"]').click() 
 
-    time.sleep(2)
+    time.sleep(20)
 
     while True:
 
       #ab2i
 
+      self.click_youtube()
+
       self.click_element(By.XPATH,'//*[@id="mnu_tblock1"]/a[2]')
 
       #ab2i = self.driver.find_element(By.XPATH,'//*[@id="mnu_tblock1"]/a[2]').click()
 
-      time.sleep(2) 
+      time.sleep(20) 
 
       abi = self.driver.page_source
 
@@ -343,11 +362,11 @@ class aBi():
 
           abi2 = self.click_element(By.XPATH,'//*[@id="start-jump-' + str(abi[i]) + '"]/a')
 
-          time.sleep(2)
+          time.sleep(20)
 
           self.driver.switch_to.window(self.driver.window_handles[1])
 
-          time.sleep(2)
+          time.sleep(26)
 
           while True:
 
@@ -359,7 +378,7 @@ class aBi():
 
             if 'сек..' in title :
 
-              #self.driver.switch_to.window(self.driver.window_handles[1])
+              self.driver.switch_to.window(self.driver.window_handles[1])
 
               time.sleep(int(re.findall('(.*?) сек..',title)[0]))
 
@@ -367,7 +386,7 @@ class aBi():
 
               self.driver.switch_to.window(self.driver.window_handles[1])
 
-              time.sleep(2)
+              time.sleep(20)
 
             if 'Просмотр засчитан!' in title :
 
@@ -379,15 +398,29 @@ class aBi():
 
               self.driver.switch_to.window(self.driver.window_handles[0])
 
-              time.sleep(2)
+              time.sleep(60)
 
               break
+
+           if 'Эффективная раскрутка сайтов' in title:
+
+              self.driver.switch_to.window(self.driver.window_handles[1])
+
+              print ('@@')
+
+              self.driver.close()
+
+              self.driver.switch_to.window(self.driver.window_handles[0])
+
+              time.sleep(60)
+
+              break 
 
       else:
 
         ab2i = self.click_element(By.XPATH,'//*[@id="mnu_tblock1"]/a[1]')
 
-        time.sleep(2)
+        time.sleep(20)
 
         abi = self.driver.page_source
 
@@ -425,13 +458,13 @@ class aBi():
 
             self.click_element(By.XPATH,'//*[@id="start-serf-' + str(abi[i]) + '"]/a')
 
-            time.sleep(2)
+            time.sleep(10)
 
             abi2 = self.click_element(By.XPATH,'//*[@id="start-serf-' + str(abi[i]) + '"]/a')
 
             #//*[@id="start-serf-8163904"]/a
 
-            time.sleep(1)
+            time.sleep(5)
 
             self.driver.switch_to.window(self.driver.window_handles[1])
 
@@ -439,6 +472,6 @@ class aBi():
 
             #<span class="timer" id="timer_inp">6</span>
 
-      time.sleep(20)
+      time.sleep(1800)
 
 abi = aBi('1').main_start()             
