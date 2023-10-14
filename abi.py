@@ -3,65 +3,46 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time ,re
 import requests
-from bs4 import BeautifulSoup
-driver = webdriver.Firefox(executable_path='/home/quanabi/Desktop/abi/geckodriver')
-#driver.get("http://www.bzzii.glitch.me/")
-width = 500
+width = 800
 height = 400
+driver = webdriver.Chrome()
 driver.set_window_size(width, height)
-driver.get('https://profitcentr.com/')
-time.sleep(10)
-aBi = driver.find_element(By.XPATH, "/html/body/div[6]/table[2]/tbody/tr/td[1]/div/a[2]")
-aBi.click() #login
+driver.get('https://profitcentr.com/login')
+#login
 time.sleep(10)
 username = driver.find_element(By.NAME,'username')
-username.send_keys('heliiooo0202@gmail.com')
-time.sleep(2)
+username.send_keys('quanabi')
+time.sleep(5)
 password = driver.find_element(By.NAME,'password')
-password.send_keys('swml6c5d')
+password.send_keys('79zur9yw')
 abi = driver.page_source
 abi = re.findall('\n(.*Отметьте.*)\n',abi)[0]  
 print(abi)
+
+a = input('...')
+driver.find_element(By.XPATH,'//*[@id="mnu_title1"]').click()
+time.sleep(10)
+driver.find_element(By.XPATH,'//*[@id="mnu_tblock1"]/a[6]').click()
+abi = driver.page_source
+abi = re.findall('\n(.*Отметьте.*)\n',abi)[0]
 ru = abi
 bq = requests.get('https://translate.googleapis.com/translate_a/single?client=gtx&sl=ru&tl=vi&dt=t&q='+ru)
 print (bq.text)
-a = input('...')
-abi = driver.find_element(By.ID,'mnu_title1')
-time.sleep(10)
-abi.click()
-a =  driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[1]/div/div[2]/div/center/div[1]/a[1]')
-time.sleep(5)
-a.click()
-driver.find_element(By.XPATH,'/html/body/div[9]/table[2]/tbody/tr/td[2]/div/div/div/div[1]/div[1]/table/tbody/tr/td[2]')#CLASS_NAME,'
-  def click_youtube(self):
-
-    self.click_element(By.XPATH,'//*[@id="mnu_tblock1"]/a[6]')
-
-    time.sleep(20)
-image //*[@id="maincolumn"]/div/div/div[2]/form
-    abi = self.driver.find_element(By.XPATH,'//*[@id="login-form"]/table/tbody/tr[3]/td')
-
-    abi.screenshot(self.src)
-//*[@id="maincolumn"]/div/div/div[2]/form/div[1]/label[5] 
-
-
-//*[@id="maincolumn"]/div/div/div[2]/form/button
-
-you
-//errors 
-"youtube-error">Весь баланс зарезервирован  
-
-findall +> table id="ads-link-626124"
-youtube 1
-//*[@id="start-ads-626187"]/span[1] 
-lik 2
-//*[@id="check-task-699887484"]
-
-src# id="check-task-699887484"
-
+abi = driver.find_element(By.XPATH,'//*[@id="maincolumn"]/div/div/div[2]/form')
+abi.screenshot('bq.png')
+input()
+abi = driver.page_source
+abi = re.findall('table id="ads-link-(.*?)"',abi)
+print(abi)
+driver.find_element(By.XPATH,'//*[@id="start-ads-'+abi[0]+'"]/span[1]').click()
+abi2 = driver.page_source
+'''
 view youtube
+
 span class="timer" id="tmr" translate="no">5831792569
+
 ckek timer
 click space play view afd
 //*[@id="succes-error"]/table/tbody/tr/td[2]/button
 click view xong close table
+'''
